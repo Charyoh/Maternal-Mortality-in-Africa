@@ -19,6 +19,8 @@ The relationship between health spending and maternal mortality rates in African
 ​SDG Target 3.1 Reduce the global maternal mortality ratio to less than 70 per 100 000 live births.
 
 ![Picture3](https://github.com/user-attachments/assets/c6b7c85e-c6ac-41c5-ae31-d53c5a15d13e)
+![Picture4](https://github.com/user-attachments/assets/f4da97dc-1036-406f-b043-39e228bac909)
+
 
 ## Data Sources
 https://www.who.int/news-room/fact-sheets/detail/maternal-mortality  
