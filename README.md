@@ -10,8 +10,6 @@
 - [Results](#results)
 - [Recommendations](#recommendations)
 
-
-
 ## Project Overview
 Maternal mortality is a significant public health concern in Africa. In 2023, there were 260,000 maternal fatalities globally, with Sub-Saharan Africa accounting for 70%. Providing adequate healthcare access can avert many maternal fatalities. High mortality rates highlight inequities in healthcare systems.
 
@@ -19,6 +17,8 @@ Maternal mortality is a significant public health concern in Africa. In 2023, th
 The relationship between health spending and maternal mortality rates in African nations. 
 ​Supports SDG Goal 3 : Ensure healthy lives and promote well- being.
 ​SDG Target 3.1 Reduce the global maternal mortality ratio to less than 70 per 100 000 live births.
+
+![Picture3](https://github.com/user-attachments/assets/c6b7c85e-c6ac-41c5-ae31-d53c5a15d13e)
 
 ## Data Sources
 https://www.who.int/news-room/fact-sheets/detail/maternal-mortality  
@@ -42,7 +42,9 @@ In the initial preparation phase, we performed the following task:
 ## Exploratory Data Analysis
 EDA involved the Maternal mortality data to answer key questions, such as:
 - What region in Africa had the most mortality rate-MMR?
+![Picture2](https://github.com/user-attachments/assets/101c8e65-ecf7-4687-98df-b5420e08c614)
 - Does the country's health expenditure directly affect MMR?
+![Picture5](https://github.com/user-attachments/assets/33fc8c38-f5ab-46f4-897d-f99b30cd96cd)
 - What relationship does the countries with the highest and lowest MMR have?
 
 ## Results
